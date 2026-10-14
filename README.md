@@ -1,3 +1,7 @@
+NAMA : MMUHAMMAD FAISAL NASRULLAH
+NIM  : 312510064
+KELAS: I.25.1.A
+
 # Lab4Web — Praktikum 4: CSS Layout
 
 ## Isi folder
