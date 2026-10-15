@@ -17,6 +17,3 @@ KELAS: I.25.1.A
 2. Buka `lab4_box.html` dengan browser untuk melihat latihan Box Element.
 3. Buka `lab4_layout/home.html` dengan browser untuk melihat layout utama.
 4. Pastikan koneksi internet aktif agar Google Fonts dan gambar dummy dari modul dapat dimuat.
-
-## Catatan kesesuaian modul
-Struktur, teks contoh, tautan gambar dummy, warna, dan nilai CSS utama mengikuti Modul Praktikum 4: CSS Layout. Beberapa aturan pelengkap (misalnya gaya tombol, responsif, serta halaman About/Kontak/Artikel) ditambahkan agar tautan navigasi berfungsi dan tugas di bagian akhir modul dapat dicoba. Lebar kolom main/sidebar dibuat sesuai total lebar container 980px termasuk padding agar tidak bertumpuk.
